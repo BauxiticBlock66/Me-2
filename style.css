@@ -1,0 +1,15 @@
+ 
+
+.sec1{
+    height: 800px;
+    width: 100%;
+    background: linear-gradient(#03fc17 0% , #03fcf0 100%);
+    opacity: 0.9;
+    text-align:center;
+}
+.sec2{
+    height: 800px;
+    width: 100%;
+    background:aqua;
+    text-align:center;
+}
